@@ -1,0 +1,6 @@
+tests/SearchTest.class
+tests/BaseTest.class
+pages/LoginPage.class
+tests/HomeTest.class
+tests/LoginTest.class
+pages/SearchPage.class
